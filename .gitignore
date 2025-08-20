@@ -1,2 +1,5 @@
 # Maven build folder
 target/
+
+# VS Code project settings
+.vscode/
